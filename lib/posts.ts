@@ -18,7 +18,7 @@ export type Post = {
 
 export function getAllPosts(): Post[] {
   if (!fs.existsSync(postsDir)) return []
-  const files = fs.readdirSync(postsDir).filter(f => f.endsWith('.md'))
+  const files = fs.readdirSync(postsDir).filter(f => f.endsWith('.md') && !f.startsWith('_'))
   return files
     .map(file => {
       const slug = file.replace('.md', '')
