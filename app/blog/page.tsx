@@ -1,13 +1,13 @@
 import PostCard from '@/components/PostCard'
 import { getAllPosts } from '@/lib/posts'
 
-export default function BlogPage({
+export default async function BlogPage({
   searchParams,
 }: {
-  searchParams: { category?: string }
+  searchParams: Promise<{ category?: string }>
 }) {
+  const { category } = await searchParams
   const all = getAllPosts()
-  const category = searchParams?.category
   const posts = category ? all.filter(p => p.category === category) : all
 
   const categories = [
