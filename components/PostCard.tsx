@@ -5,6 +5,7 @@ const categoryConfig = {
   'gut-health': { label: 'Gut Health', color: '#E84C1E' },
   'personal':   { label: 'Personal',   color: '#2563EB' },
   'agentic-ai': { label: 'Agentic AI', color: '#7C3AED' },
+  'books':      { label: 'Books',      color: '#059669' },
 }
 
 export default function PostCard({ post }: { post: Post }) {

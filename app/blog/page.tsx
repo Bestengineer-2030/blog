@@ -13,6 +13,7 @@ export default function BlogPage({
   const categories = [
     { key: undefined,        label: 'All Posts'   },
     { key: 'gut-health',    label: 'Gut Health'  },
+    { key: 'books',         label: 'Books'       },
     { key: 'personal',      label: 'Personal'    },
     { key: 'agentic-ai',   label: 'Agentic AI'  },
   ]
