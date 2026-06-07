@@ -41,7 +41,7 @@ When you ask for help by explaining your need — your struggle, your vision, yo
 
 When you ask for help by showing them what they get — what's in it for them, concretely — you are asking them to make a rational decision in their favour.
 
-**What this means for me:** Every cold email to an investor or potential partner I've written has led with what I'm building. That's the wrong frame. The frame should be: what problem do they have that I can help with? A Hyrox coach has athletes who keep cramping at Station 3. I have a protocol that fixes that. Lead with their problem. Earn the right to tell the rest of the story.
+**What this means for me:** Every cold email to an investor or potential partner I've written has led with what I'm building. That's the wrong frame. The frame should be: what problem do they have that I can help with? A Hyrox coach has athletes who keep cramping at Station 3, who buy generic supplements that don't match their physiology. I have a platform that builds them a personalized stack. Lead with their problem. Earn the right to tell the rest of the story.
 
 ---
 
@@ -61,7 +61,7 @@ Greene: the more you explain yourself, the more ordinary you appear. Mystery cre
 
 Not manipulation. Editing. You don't have to share everything. Most people overshare anxiety and undershare results. Reverse it.
 
-**What this means for me:** I talk too much about what I'm planning and too little about what I've already done. The 22-page gut health protocol exists. The templates exist. Lead with what's real, not what's next. Let the output create its own mystery.
+**What this means for me:** I talk too much about what I'm planning and too little about what I've already done. The platform architecture exists. The financial model exists. The team of five is assembled. Lead with what's real, not what's next. Let the output create its own mystery.
 
 ---
 
@@ -87,7 +87,7 @@ Greene references Mao: *"When we fight you, we make sure you don't get away."* T
 
 The lesson: when you commit to a rigid strategy, competitors and circumstances can counter it. Remain adaptable in tactics while clear in direction.
 
-**What this means for me:** My startup has no fixed form yet. That's not a weakness — it's an advantage right now. I don't need to publicly commit to a business model before I know which one sticks. Test quietly. Move fast. Don't become a target before you're strong enough to hold the position.
+**What this means for me:** The personalized supplement platform has no fixed public form yet. We have not announced a pricing model, a launch date, or a market segment beyond Hyrox. That is not a weakness — it is an advantage. Test quietly with the first ten athletes. Move fast. Don't become a target before you're strong enough to hold the position.
 
 ---
 

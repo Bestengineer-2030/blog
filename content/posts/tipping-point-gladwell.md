@@ -27,7 +27,7 @@ Most of the work in spreading an idea is done by a tiny number of people. Not ev
 
 The insight: you do not need everyone. You need the right few people. Find one Connector, one Maven, and one Salesman and your idea moves faster than any advertising campaign.
 
-**What this means for me:** The Hyrox India community has exactly this structure. There are Connectors — athletes who know everyone across every box in three cities. There are Mavens — the obsessives who track every race result and will read a 22-page gut health protocol cover to cover. And there are Salesmen — the coaches whose athletes do whatever they recommend. I don't need to reach 5,000 Hyrox athletes. I need to find those three types of people and put something genuinely useful in their hands.
+**What this means for me:** The Hyrox India community has exactly this structure. There are Connectors — athletes who know everyone across every box in three cities. There are Mavens — the obsessives who track every race result and will deep-dive into a personalized supplement stack, question every dosage, and then tell their entire training group about it. And there are Salesmen — the coaches whose athletes do whatever they recommend. I don't need to reach 5,000 Hyrox athletes. I need to find those three types of people and put something genuinely useful in their hands.
 
 ---
 
@@ -41,9 +41,9 @@ His examples: Sesame Street discovered that children learn far better when human
 
 Stickiness is testable. You can run it against real people and measure whether they remember it and act on it.
 
-**What this means for me:** The gut health protocol has a stickiness problem. A 22-page PDF is not sticky. The one-page cheat sheet is sticky. "Your gut quit at Station 3. Here's why." is sticky. The question to ask about every piece of content: will someone remember this at their next race? If not, it has not stuck.
+**What this means for me:** A generic supplement recommendation is not sticky. "Take creatine and magnesium" is forgotten by Tuesday. But "your stack — specifically yours, for your training load and your race schedule, with your timing guide" — that is sticky. The personalization is not just better science. It is better stickiness. The athlete remembers their stack because it is theirs.
 
-The race-day cheat sheet I built — the laminate card — is the stickiest thing I have made. That is the format to lead with.
+The single stickiest format I have found: the timing guide card. AM / pre-workout / post-workout / PM — four moments, four supplements, one athlete's name at the top. That is the format to lead with.
 
 ---
 
@@ -65,11 +65,11 @@ Timing and channel are not secondary considerations. They are the primary lever.
 
 Every tipping point needs a Connector to carry it to the right community, a sticky message that people remember and repeat, and the right contextual moment to offer it.
 
-I have the message. The gut health protocol is good. The stickiness is still being worked on — the cheat sheet is the right direction.
+I have the product. The personalized supplement platform is real — AI-matched stacks, monthly delivery, continuously adjusted. The stickiness is the timing guide card: your name, your supplements, your four daily moments.
 
-What I don't have yet: the Connectors. The two or three athletes with 15,000 followers in the Hyrox India community who are Mavens — who will read the protocol, believe it, and tell everyone.
+What I don't have yet: the Connectors. The two or three athletes in the Hyrox India community who are Mavens — who will try the personalized stack, feel the difference at Station 3, and tell everyone in their training group.
 
-That is the next step. Not more content. Not a better website. Finding the three people who will carry it.
+That is the next step. Not more features. Not a better website. Finding the three people who will carry it.
 
 ---
 

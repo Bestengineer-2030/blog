@@ -13,11 +13,11 @@ I'm applying this to agentic AI.
 
 ## Why Agentic AI
 
-I'm building a gut health coaching startup for Hyrox athletes. The market is real. The product exists (I wrote a 22-page evidence-based protocol). The problem is distribution and content — I need to produce consistent, accurate, athlete-specific content at a volume I can't do alone.
+I'm building a personalized supplement platform for Hyrox athletes in India. The model: athlete submits their training load, race history, and health data — AI generates a personalized supplement stack, monthly box ships to their door, agent adjusts the stack every month based on their results. Netflix for supplements.
 
-Agentic AI solves this. Not AI that generates one thing when prompted. AI that runs a full workflow: research the science, write the post, check the claims, format for Instagram, flag what I need to review. A content team that runs while I sleep.
+The core product is an AI agent. Not a chatbot that answers questions — an agent that takes a profile, decides which supplements are right for this specific athlete at this specific training load, generates a timing guide, flags contraindications, and loops until the recommendation is safe and sound.
 
-To build that, I need to understand how agents actually work — not just how to prompt ChatGPT.
+To build that agent well, I need to understand how agents actually work — at the architecture level, not just "how to prompt ChatGPT."
 
 ## The 4 Design Patterns (Week 1 Mental Model)
 
@@ -45,16 +45,16 @@ Just: understand it well enough to build, then build.
 
 ## What I'm Building
 
-A 3-agent content pipeline for the gut health startup:
+A supplement recommendation agent for Hyrox athletes:
 
-1. **Research Agent** — searches PubMed and nutrition databases for recent studies on a given topic
-2. **Writer Agent** — takes the research output and drafts a blog post in my voice
-3. **Review Agent** — checks factual claims, flags anything uncertain, suggests improvements
+1. **Intake Agent** — reads the athlete's health profile (training load, race history, symptoms, deficiencies, diet)
+2. **Recommendation Agent** — selects each supplement, sets the dose, builds a timing guide (pre-workout, AM, PM, recovery window) using Tool Use to call structured functions
+3. **Review Agent** — runs a Reflection pass: checks every dosage against published safe limits, flags contraindications, revises anything unsafe before the stack reaches the athlete
 
-Input: a topic ("gut microbiome and endurance performance")
-Output: a reviewed draft blog post with cited sources
+Input: athlete health profile (20-field form)
+Output: a personalized supplement stack + timing guide, safety-checked, ready to fulfill
 
-That's the MVP. Week 1 goal.
+That's the core product. The platform is the delivery mechanism around it.
 
 ## What I've Learned So Far
 
@@ -66,6 +66,6 @@ Understanding the vocabulary changes how I direct the tool. Instead of asking Cl
 
 ---
 
-Week 2 update coming once the content pipeline is running.
+Week 2 update coming once the recommendation agent is returning real supplement stacks.
 
-*Following this journey? I post about building an AI-powered gut health coaching startup — the strategy, the tools, and what actually works.*
+*Following this journey? I post about building an AI-powered personalized supplement platform — the strategy, the tools, and what actually works.*

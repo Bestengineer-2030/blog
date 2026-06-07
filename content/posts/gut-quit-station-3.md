@@ -37,18 +37,18 @@ Hyrox oscillates. Eight stations at maximal effort separated by running at aerob
 
 Most athletes try to fix this by eating less before racing. This helps slightly but misses the real problem.
 
-The real problem is that your gut has never been trained to perform under these conditions.
+The real problem is that your gut has never been trained to perform under these conditions — and your supplement stack has never been designed with your gut in mind.
 
-Your gut is trainable. Exactly like a muscle. And most athletes have never trained it.
+Generic sports nutrition is built for the average athlete. A 25-year-old male triathlete with no gut issues running a flat course at sustained pace. That is not you. You are doing eight maximal-effort stations separated by running, in an order that specifically punishes a compromised gut. The SkiErg and burpee stations compress your abdomen directly. Station 3 is where it shows up.
 
-The solution is a 4-week gut adaptation protocol that progressively exposes your digestive system to increasing stress during training — teaching it to maintain function when blood flow is compromised.
+What actually fixes this: training the gut progressively, and matching your supplement stack to your specific physiology — not the label on a tub. Creatine timing matters. Magnesium form matters. Electrolyte composition relative to your sweat rate matters. Beta-alanine dose relative to your training load matters.
 
-I'll cover the full protocol in the next post. But the most important thing to understand today is this:
+This is the gap between a generic supplement stack and a personalized one. The science of what happens at Station 3 is the same for every athlete. What fixes it is different for each one.
 
-**GI distress during Hyrox is not bad luck. It is an untrained system.**
+**GI distress during Hyrox is not bad luck. It is an unmatched system.**
 
-And untrained systems can be trained.
+And systems can be matched.
 
 ---
 
-*This is the first post in a series on gut performance for Hyrox athletes. The full 4-week protocol is available as a PDF — link in bio.*
+*This is the first post in a series on performance nutrition for Hyrox athletes — gut function, supplement timing, and why personalized stacks outperform generic ones.*
