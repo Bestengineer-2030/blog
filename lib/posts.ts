@@ -10,7 +10,7 @@ export type Post = {
   title: string
   date: string
   excerpt: string
-  category: 'gut-health' | 'personal' | 'agentic-ai'
+  category: 'gut-health' | 'personal' | 'agentic-ai' | 'books'
   readingTime: string
   content: string
   coverImage?: string
